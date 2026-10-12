@@ -34,77 +34,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global enterprise video streaming and management market is estimated at approximately **$26B – $30B** (expanding at an ~11–13% CAGR toward 2030). The sector exhibits **moderate concentration / medium fragmentation** (HHI ~850–1,050, with the top tier controlling 42–48% of market share), balanced between horizontal hyper-scalers (Salesforce, IBM, Microsoft) providing broad ecosystems and specialized video architectures (Brightcove, Kaltura, Panopto, Wistia) defending deep enterprise workflows, compliance, and eCDN delivery.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce+](https://www.salesforce.com/plus/)**  
-
-  Salesforce's proprietary streaming platform for original series, product demos, and Trailblazer community content. Hosts release readiness episodes for Agentforce, Analytics, Commerce, and more .
-
-
-
-- **[Vimeo Enterprise](https://vimeo.com/enterprise)**  
-
-  Enterprise video platform with SSO/SCIM, searchable video library, private showcases, live streaming, AI-powered captions and dubbing, and integrations with Marketo and Marketing Cloud .
-
-
-
-- **[Brightcove](https://www.brightcove.com/)**  
-
-  Leading video hosting and streaming platform handling 207 million weekly views. Features dynamic delivery, context-aware encoding, monetization models (AVOD, SVOD, TVOD), and enterprise DRM .
-
-
-
-- **[Wistia](https://wistia.com/)**  
-
-  Video marketing platform for businesses with 440,000+ customers. Features lead capture, in-video CTAs, heatmaps, A/B testing, Automation Suite for HubSpot/Marketo/Pardot integration, and webinar hosting .
-
-
-
-- **[Kaltura](https://corp.kaltura.com/)**  
-
-  All-in-one video platform for education and enterprise. Features LMS/VLE integration, virtual classroom, lecture capture, video portal, in-video search, interactive quizzes, and advanced analytics .
-
-
-
-- **[Panopto](https://www.panopto.com/)**  
-
-  Video knowledge platform for learning at scale with 2,000+ customers. Automatically transcribes and indexes every recording, with AI-powered search, LMS integrations (Canvas, Blackboard, Moodle), and WCAG 2.1 AA accessibility .
-
-
-
-- **[Vidyard](https://www.vidyard.com/)**  
-
-  Video marketing and sales platform with AI Avatars, Video Agent automation, native HubSpot integration, and video engagement data syncing to CRM for lead scoring and pipeline attribution .
-
-
-
-- **[Qumu (Enghouse Video)](https://www.enghousevideo.com/)**  
-
-  Enterprise video-on-demand and live streaming platform. Features branded viewer portals, engagement analytics, smart content management, and scalable pricing for 500+ users .
-
-
-
-- **[Dacast](https://www.dacast.com/)**  
-
-  Professional live streaming platform with CloudFront and Akamai CDN delivery. Supports RTMP/SRT ingest, adaptive bitrate, DVR recording, white-label player, and domain access controls .
-
-
-
-- **[IBM Video Streaming](https://www.ibm.com/cloud/video)**  
-
-  Enterprise-grade live and on-demand video platform powered by IBM Watson AI. Features automated captioning, multi-CDN global delivery, SSO integration, and customizable branded portals .
+| Platform | Description | Scale (Revenue / Valuation) | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce+](https://www.salesforce.com/plus/)** | Salesforce's proprietary streaming network for series, live event broadcasts (Dreamforce), release readiness (Agentforce, Analytics, Commerce), and business thought leadership. | **~$300B+ MCap** (~$38B Annual Revenue) | **Free** ($0 / Trailblazer membership) | **Unlimited free access** with free Trailblazer.me account (no time limit, full on-demand library access) |
+| **[IBM Video Streaming](https://www.ibm.com/cloud/video)** | Enterprise-grade live and VOD platform powered by Watson AI with automated captioning, multi-CDN delivery, and secure SSO portals. | **~$220B+ MCap** (~$62B Annual Revenue) | **Silver tier starting at $154/mo** (indicative entry tier; Gold at $773/mo; Enterprise at $898/mo) | **30-day free trial** with access to core streaming, Watson live captioning, and IBM ID registration |
+| **[Vimeo Enterprise](https://vimeo.com/enterprise)** | Business video platform with SSO/SCIM, centralized library, private showcases, live streaming, AI dubbing, and marketing integrations. | **~$1.1B MCap** (~$415M Annual Revenue) | **Starter tier starting at $20/mo** ($12/mo billed annually; Standard at $33/mo; Enterprise custom) | **Permanent Free plan**: Up to 3 GB managed storage (private/embeddable videos), basic video player and creation tools |
+| **[Brightcove](https://www.brightcove.com/)** | High-scale enterprise video streaming platform handling 207M+ weekly views with dynamic delivery, context-aware encoding, and DRM. | **~$120M MCap** (~$190M Annual Revenue) | **Custom annual contract starting at ~$499/mo** (~$6,000/yr minimum entry commitment) | **30-day guided free trial / PoC** on Video Cloud with upload limit (~10 videos) via business email verification |
+| **[Kaltura](https://corp.kaltura.com/)** | Modular video platform for education and enterprise featuring virtual classrooms, lecture capture, interactive quizzes, and LMS/VLE integrations. | **~$200M MCap** (~$180M Annual Revenue) | **Media Services starting at $20/mo** base plan + usage (Virtual Classroom starting at $19/mo per organizer) | **30-day free trial**: Includes $100 developer/media platform credit to test APIs, transcoding, and streaming |
+| **[Panopto](https://www.panopto.com/)** | Video knowledge and lecture management platform for enterprises and universities with automated transcription, AI search, and LMS integrations. | **~$350M Valuation** (~$30M Annual Revenue; K1 Investment backed) | **Custom annual contracts starting at ~$250/mo** (~$3,000/yr minimum entry contract) | **No enterprise free tier**; offers **Panopto Express** (permanent 100% free browser screen recorder with no time limit/watermarks) plus guided pilot trials upon request |
+| **[Vidyard](https://www.vidyard.com/)** | Video marketing and sales engagement platform featuring AI Avatars, CRM pipeline attribution, and automated outbound video messaging. | **~$200M Valuation** (~$25M Annual Revenue; Bessemer backed) | **Pro tier starting at $29/seat/mo** (billed annually, or $89/seat/mo monthly; Plus tier at $89/seat/mo) | **Permanent Free plan**: Up to 5 new video recordings per month, lifetime limit of 15 AI videos, 30-min recording cap per video |
+| **[Wistia](https://wistia.com/)** | Video marketing and hosting platform for businesses with lead capture forms, in-video CTAs, heatmaps, A/B testing, and CRM integration. | **~$150M Valuation** (~$32M Annual Revenue; Bootstrapped/Independent) | **Plus tier starting at $24/mo** ($19/mo billed annually; Pro tier at $79/mo billed annually) | **Permanent Free plan**: Up to 10 hosted videos/media files, 200 GB/month streaming bandwidth, 1 user seat |
+| **[Qumu (Enghouse Video)](https://www.enghousevideo.com/)** | Enterprise video content management and eCDN live streaming platform with branded viewer portals and engagement analytics. | **~$18M Acquisition Value** (~$22M Annual Revenue; Enghouse Systems subsidiary) | **Enterprise subscriptions starting at ~$800/mo** (billed annually for 500+ seat organizations) | **14-day assisted proof-of-concept / demo trial** for enterprise organizations via Enghouse sales consultation |
+| **[Dacast](https://www.dacast.com/)** | Professional live streaming and VOD hosting platform featuring CloudFront/Akamai CDN delivery, SRT/RTMP ingest, and paywall monetization. | **~$20M Valuation** (~$8M Annual Revenue; Bootstrapped/Private) | **Starter plan starting at $39/mo** (billed annually at $468/yr; Scale plan at $165/mo) | **14-day free trial**: Includes 10 GB total bandwidth, 2 GB video storage, 1 active channel, full HD streaming testing |
 
 
 
