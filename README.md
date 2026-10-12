@@ -7,7 +7,7 @@
 <br/><br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Business-Streaming-Video/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Streaming-Video?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Business-Streaming-Video/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Streaming-Video?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Business-Streaming-Video/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Streaming-Video?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Business-Streaming-Video/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Business-Streaming-Video" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Business-Streaming-Video/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
@@ -58,54 +58,54 @@ The global enterprise video streaming and management market is estimated at appr
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosting, video infrastructure, media encoding, WebRTC conferencing, and broadcast pipelines. Sorted by GitHub stars in descending order.
+Curated open-source projects for self-hosting, video infrastructure, media encoding, WebRTC conferencing, and broadcast pipelines. Sorted by GitHub_Stars in descending order.
 
-1. **[OBS Studio](https://github.com/obsproject/obs-studio)** [![GitHub stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
+1. **[OBS Studio](https://github.com/obsproject/obs-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
    🎥 Free and open-source software for video recording and live streaming. Supports multi-source scene composition, RTMP/SRT streaming, studio mode, and audio mixing with high-performance real-time video capture.
 
-2. **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+2. **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
    ⚙️ The universal leading multimedia framework capable of decoding, encoding, transcoding, muxing, demuxing, streaming, filtering, and playing virtually every video format created.
 
-3. **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
+3. **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub_Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
    📺 Free software media system (GPL) for organizing, managing, and streaming internal video and media libraries. Features hardware acceleration transcoding, multi-user access control, and cross-platform native apps.
 
-4. **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
+4. **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
    📞 Fully encrypted, 100% open-source video conferencing solution that can be deployed on enterprise infrastructure. Supports screen sharing, recording, live streaming to YouTube, and dial-in integration.
 
-5. **[SRS (Simple Realtime Server)](https://github.com/ossrs/srs)** [![GitHub stars](https://img.shields.io/github/stars/ossrs/srs?style=social&color=white)](https://github.com/ossrs/srs/stargazers)  
+5. **[SRS (Simple Realtime Server)](https://github.com/ossrs/srs)** [![GitHub_Stars](https://img.shields.io/github/stars/ossrs/srs?style=social&color=white)](https://github.com/ossrs/srs/stargazers)  
    🚀 High-performance, production-grade video streaming cluster server supporting RTMP, WebRTC, HLS, HTTP-FLV, and SRT protocols. Powers large-scale video delivery pipelines across thousands of companies.
 
-6. **[LiveKit](https://github.com/livekit/livekit)** [![GitHub stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
+6. **[LiveKit](https://github.com/livekit/livekit)** [![GitHub_Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
    ⚡ End-to-end open-source WebRTC stack designed for building real-time video, audio, and multimodal AI streaming applications at massive scale.
 
-7. **[PeerTube](https://github.com/Chocobozzz/PeerTube)** [![GitHub stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social&color=white)](https://github.com/Chocobozzz/PeerTube/stargazers)  
+7. **[PeerTube](https://github.com/Chocobozzz/PeerTube)** [![GitHub_Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social&color=white)](https://github.com/Chocobozzz/PeerTube/stargazers)  
    🌐 Decentralized, federated video hosting platform (AGPL) powered by ActivityPub and WebTorrent P2P distribution to drastically reduce server streaming bandwidth for corporate and educational institutions.
 
-8. **[Owncast](https://github.com/owncast/owncast)** [![GitHub stars](https://img.shields.io/github/stars/owncast/owncast?style=social&color=white)](https://github.com/owncast/owncast/stargazers)  
+8. **[Owncast](https://github.com/owncast/owncast)** [![GitHub_Stars](https://img.shields.io/github/stars/owncast/owncast?style=social&color=white)](https://github.com/owncast/owncast/stargazers)  
    📡 Self-hosted live streaming and chat server for independent broadcasting. Standalone single-binary Go deployment with built-in HLS packaging and customizable web viewer interface.
 
-9. **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)** [![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)  
+9. **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)** [![GitHub_Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)  
    🎓 Open-source virtual classroom and enterprise training web conferencing system designed with multi-user whiteboards, breakout rooms, polling, screen sharing, and LMS integration.
 
-10. **[Janus Gateway](https://github.com/meetecho/janus-gateway)** [![GitHub stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers)  
+10. **[Janus Gateway](https://github.com/meetecho/janus-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers)  
     🔌 General-purpose WebRTC server written in C, providing high-speed modular plugins for video broadcasting, SIP gateway integration, audio bridges, and video room routing.
 
-11. **[Restreamer](https://github.com/datarhei/restreamer)** [![GitHub stars](https://img.shields.io/github/stars/datarhei/restreamer?style=social&color=white)](https://github.com/datarhei/restreamer/stargazers)  
+11. **[Restreamer](https://github.com/datarhei/restreamer)** [![GitHub_Stars](https://img.shields.io/github/stars/datarhei/restreamer?style=social&color=white)](https://github.com/datarhei/restreamer/stargazers)  
     🔄 Open-source live streaming GUI that lets you broadcast H.264/H.265 video directly to your website and restream simultaneously to YouTube, Twitch, Facebook, and custom RTMP endpoints.
 
-12. **[MediaCMS](https://github.com/mediacms-io/mediacms)** [![GitHub stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=social&color=white)](https://github.com/mediacms-io/mediacms/stargazers)  
+12. **[MediaCMS](https://github.com/mediacms-io/mediacms)** [![GitHub_Stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=social&color=white)](https://github.com/mediacms-io/mediacms/stargazers)  
     📦 Modern open-source video content management system (CMS) built with Django, Celery, and React. Delivers an enterprise internal YouTube alternative with multi-format transcoding, HLS playback, and REST APIs.
 
-13. **[Ant Media Server](https://github.com/ant-media/Ant-Media-Server)** [![GitHub stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)  
+13. **[Ant Media Server](https://github.com/ant-media/Ant-Media-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)  
     ⏱️ Real-time, ultra-low latency streaming engine supporting WebRTC (under 0.5s latency), CMAF, HLS, and RTMP with adaptive bitrate streaming and auto-scaling support.
 
-14. **[Oryx (SRS Stack)](https://github.com/ossrs/oryx)** [![GitHub stars](https://img.shields.io/github/stars/ossrs/oryx?style=social&color=white)](https://github.com/ossrs/oryx/stargazers)  
+14. **[Oryx (SRS Stack)](https://github.com/ossrs/oryx)** [![GitHub_Stars](https://img.shields.io/github/stars/ossrs/oryx?style=social&color=white)](https://github.com/ossrs/oryx/stargazers)  
     🛠️ All-in-one lightweight video cloud solution built on SRS, Go, React, and FFmpeg. Features one-click Docker deployment, automatic SSL/HTTPS, virtual live events, multi-platform restreaming, and DVR recording.
 
-15. **[Opencast](https://github.com/opencast/opencast)** [![GitHub stars](https://img.shields.io/github/stars/opencast/opencast?style=social&color=white)](https://github.com/opencast/opencast/stargazers)  
+15. **[Opencast](https://github.com/opencast/opencast)** [![GitHub_Stars](https://img.shields.io/github/stars/opencast/opencast?style=social&color=white)](https://github.com/opencast/opencast/stargazers)  
     🏛️ Free, open-source enterprise lecture capture and video management platform designed for higher education institutions and large corporate learning portals.
 
-16. **[SendRec](https://github.com/sendrec/sendrec)** [![GitHub stars](https://img.shields.io/github/stars/sendrec/sendrec?style=social&color=white)](https://github.com/sendrec/sendrec/stargazers)  
+16. **[SendRec](https://github.com/sendrec/sendrec)** [![GitHub_Stars](https://img.shields.io/github/stars/sendrec/sendrec?style=social&color=white)](https://github.com/sendrec/sendrec/stargazers)  
     💬 Open-source asynchronous video messaging platform (self-hosted Loom alternative). Features in-browser screen and webcam recording, AI transcription with local Whisper, CTA buttons, viewer heatmaps, and GDPR compliance.
 
 ---
